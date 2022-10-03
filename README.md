@@ -1,4 +1,6 @@
-Salve!! I am Gokul Amuthan S, go by Gokul. I am a/an,
+## Salve!! I am Gokul Amuthan S <div align = 'right'>![](https://komarev.com/ghpvc/?username=gokulamuthans-dev&color=blue)</div>
+
+I go by Gokul. I am a/an,
 
 - Computer whisperer🧙🏼‍♂️
 - Epicurean😘🍜
